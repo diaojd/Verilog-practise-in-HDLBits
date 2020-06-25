@@ -1,7 +1,2 @@
-echo "# Verilog-practise-in-HDLBits" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/diaojd/Verilog-practise-in-HDLBits.git
-git push -u origin master
-             
+There are some HDLBits website practices. 
+I write down all my thoughts here.
