@@ -6,5 +6,5 @@ module top_module (
     assign w = {a,b[4:2]};
     assign x = {b[1:0],c,d[4]};
     assign y = {d[3:0],e[4:1]};
-    assign z = {e[0],f,2'b11};
+    assign z = {e[0],f,2'b11};// assign {w, x, y, z} = {a, b, c, d, e, f, 2'b11};
 endmodule
